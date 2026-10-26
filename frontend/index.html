@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Discover verified private clinics and request appointments in Pagadian City."
+    />
+    <title>LapitCare — Care, closer to home</title>
+    <link rel="stylesheet" href="/shared/css/tokens.css" />
+    <link rel="stylesheet" href="/shared/css/reset.css" />
+    <link rel="stylesheet" href="/shared/css/components.css" />
+    <link rel="stylesheet" href="/shared/css/animations.css" />
+    <link rel="stylesheet" href="/landing/landing.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <script type="module" src="/landing/landing.js"></script>
+    <script type="module" src="/landing/landing-animations.js"></script>
+  </head>
+  <body>
+    <header class="landing-nav">
+      <div class="nav-inner">
+        <a class="logo" href="/">
+          <span class="logo-mark"></span>
+          <span>Lapit<span class="logo-care">Care</span></span>
+        </a>
+        <nav class="nav-links" aria-label="Main navigation">
+          <a href="#features">Features</a>
+          <a href="#how">How it works</a>
+          <a href="#specialties">Specialties</a>
+          <a href="#map">Map</a>
+          <a href="#clinics">For clinics</a>
+        </nav>
+        <div class="nav-actions">
+          <a class="btn btn-primary login-link" href="/auth/patient/login.html">
+            Sign In
+          </a>
+          <a class="btn btn-secondary login-link" href="/auth/clinic/register.html">
+            Register Clinic
+          </a>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section class="hero">
+        <div class="hero-glow"></div>
+        <div class="hero-inner">
+          <div class="hero-copy reveal">
+            <div class="trust-chip">
+              <span class="pulse-dot"></span>Private clinic discovery in
+              Pagadian City
+            </div>
+            <h1>Find the right clinic, <em>near you,</em> in Pagadian City.</h1>
+            <p>
+              Discover verified private clinics, see who’s on duty, and request
+              an appointment—all in one calm, simple place.
+            </p>
+            <div class="hero-actions">
+              <a
+                class="btn btn-primary btn-large ripple"
+                href="/patient/clinics/clinics.html"
+                >Find Care <span>→</span></a
+              ><a
+                class="btn btn-secondary btn-large"
+                href="/auth/patient/register.html"
+                aria-label="Get started by creating a patient account"
+                >Get Started</a
+              >
+            </div>
+            <form class="quick-search" id="quick-search">
+              <div>
+                <label for="hero-specialty">I’m looking for</label
+                ><select id="hero-specialty" name="specialty">
+                  <option value="">Any specialty</option>
+                  <option>Dentistry</option>
+                  <option>Dermatology</option>
+                  <option>Pediatrics</option>
+                  <option>Ophthalmology / Optometry</option>
+                  <option>General Practice / Family Medicine</option>
+                </select>
+              </div>
+              <div>
+                <label for="hero-barangay">Near</label
+                ><select id="hero-barangay" name="barangay">
+                  <option value="">Any barangay</option>
+                  <option>Balangasan</option>
+                  <option>Santa Lucia</option>
+                  <option>Gatas</option>
+                  <option>Tiguma</option>
+                </select>
+              </div>
+              <button class="search-submit" aria-label="Search clinics">
+                ⌕
+              </button>
+            </form>
+          </div>
+          <div class="hero-visual reveal">
+            <svg
+              class="map-art"
+              viewBox="0 0 560 500"
+              aria-label="Stylized map of Pagadian City"
+            >
+              <path
+                class="map-shape"
+                d="M110 82C174 32 262 49 319 84c58 35 142 32 177 104 36 75-23 126-34 196-11 67-69 98-137 78-79-23-110 15-177-29-63-42-25-99-63-154-36-53-35-149 25-197Z"
+              />
+              <path
+                class="map-road"
+                d="M88 270c107-9 127-88 209-71 82 17 115 89 194 60M174 64c16 101-20 170 54 221 52 36 85 71 93 179M399 89c-64 79-52 142-25 210"
+              />
+              <g class="ecg">
+                <path d="M45 348h105l15-38 21 83 25-108 25 63h277" />
+              </g>
+              <g class="pin pin-one">
+                <path
+                  d="M0-24c-15 0-27 12-27 27 0 22 27 49 27 49S27 25 27 3C27-12 15-24 0-24Z"
+                />
+                <path class="pin-cross" d="M-10 3h20M0-7v20" />
+              </g>
+              <g class="pin pin-two">
+                <path
+                  d="M0-24c-15 0-27 12-27 27 0 22 27 49 27 49S27 25 27 3C27-12 15-24 0-24Z"
+                />
+                <path class="pin-cross" d="M-10 3h20M0-7v20" />
+              </g>
+              <g class="pin pin-three">
+                <path
+                  d="M0-24c-15 0-27 12-27 27 0 22 27 49 27 49S27 25 27 3C27-12 15-24 0-24Z"
+                />
+                <path class="pin-cross" d="M-10 3h20M0-7v20" />
+              </g>
+            </svg>
+            <div class="float-card duty-card">
+              <span class="card-icon teal">✚</span>
+              <div>
+                <small>Dr. M. Ramos</small><strong><i></i> On duty</strong>
+              </div>
+            </div>
+            <div class="float-card slot-card">
+              <span class="card-icon coral">◷</span>
+              <div>
+                <small>Today, 2:00 PM</small><strong>Slot available</strong>
+              </div>
+            </div>
+            <div class="float-card confirm-card">
+              <span class="card-icon green">✓</span>
+              <div>
+                <small>NearCare Clinic</small
+                ><strong>Appointment confirmed</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="stats-strip">
+          <div>
+            <strong data-count="11">0</strong><span>registered clinics</span>
+          </div>
+          <div><strong data-count="5">0</strong><span>specialties</span></div>
+          <div>
+            <strong data-count="10">0</strong><span>barangays covered</span>
+          </div>
+          <div>
+            <strong data-count="1248">0</strong
+            ><span>appointments booked <small>demo data</small></span>
+          </div>
+        </div>
+      </section>
+      <section class="section" id="features">
+        <div class="section-heading reveal">
+          <span class="eyebrow">Everything you need</span>
+          <h2>Care connections, made simple.</h2>
+          <p>
+            Built specifically for finding and managing appointments with
+            private clinics.
+          </p>
+        </div>
+        <div class="feature-grid" id="feature-grid"></div>
+      </section>
+      <section class="section how-section" id="how">
+        <div class="section-heading reveal">
+          <span class="eyebrow">A clearer way to care</span>
+          <h2>From search to scheduled in four steps.</h2>
+        </div>
+        <div class="timeline reveal">
+          <div class="timeline-line"><span></span></div>
+          <article>
+            <b>01</b>
+            <div class="step-icon">⌕</div>
+            <h3>Discover</h3>
+            <p>Search by specialty, service, barangay, or availability.</p>
+          </article>
+          <article>
+            <b>02</b>
+            <div class="step-icon">⌖</div>
+            <h3>Locate on map</h3>
+            <p>Compare nearby verified private clinics across Pagadian.</p>
+          </article>
+          <article>
+            <b>03</b>
+            <div class="step-icon">◷</div>
+            <h3>Pick a slot</h3>
+            <p>Choose an available doctor, date, and appointment time.</p>
+          </article>
+          <article>
+            <b>04</b>
+            <div class="step-icon">✓</div>
+            <h3>Get confirmed</h3>
+            <p>Track status updates and manage your appointment.</p>
+          </article>
+        </div>
+      </section>
+      <section class="section specialties-section" id="specialties">
+        <div class="section-heading reveal">
+          <span class="eyebrow">Find the right care</span>
+          <h2>Browse by specialty.</h2>
+        </div>
+        <div class="specialty-cloud reveal">
+          <a href="/patient/clinics/clinics.html?specialty=Dentistry"
+            ><span>◇</span>Dentistry</a
+          ><a href="/patient/clinics/clinics.html?specialty=Dermatology"
+            ><span>✣</span>Dermatology</a
+          ><a href="/patient/clinics/clinics.html?specialty=Pediatrics"
+            ><span>○</span>Pediatrics</a
+          ><a
+            href="/patient/clinics/clinics.html?specialty=Ophthalmology%20%2F%20Optometry"
+            ><span>◉</span>Ophthalmology / Optometry</a
+          ><a
+            href="/patient/clinics/clinics.html?specialty=General%20Practice%20%2F%20Family%20Medicine"
+            ><span>✚</span>Family Medicine</a
+          >
+        </div>
+      </section>
+      <section class="section map-section" id="map">
+        <div class="map-copy reveal">
+          <span class="eyebrow">Explore Pagadian</span>
+          <h2>See care around the corner.</h2>
+          <p>
+            Explore verified private clinics across the city. Clinic status and
+            staff duty information are refreshed regularly.
+          </p>
+          <div class="status-legend">
+            <span><i class="open"></i>Open</span
+            ><span><i class="limited"></i>Limited services</span
+            ><span><i class="closed"></i>Closed</span>
+          </div>
+          <a class="btn btn-teal" href="/patient/clinics/clinics.html?view=map"
+            >Open full clinic map →</a
+          >
+        </div>
+        <div class="map-frame reveal">
+          <div
+            id="landing-map"
+            aria-label="Map of private clinics in Pagadian City"
+          ></div>
+          <div class="notice hidden" id="map-error">
+            The map is temporarily unavailable. Clinic search still works.
+          </div>
+        </div>
+      </section>
+      <section class="section live-section">
+        <div class="live-card reveal">
+          <div>
+            <span class="eyebrow">Status updates</span>
+            <h2>Know who’s available before you go.</h2>
+            <p>
+              Duty information helps patients choose an appropriate available
+              schedule. Status is for reference and may change.
+            </p>
+          </div>
+          <div class="staff-demo">
+            <div class="staff-row">
+              <div class="avatar">MR</div>
+              <div>
+                <strong>Dr. Mia Ramos</strong><small>Family Medicine</small>
+              </div>
+              <span class="badge status-on-duty" data-cycle-status
+                >On Duty</span
+              >
+            </div>
+            <div class="status-update">
+              <span class="pulse-dot"></span> Updated just now
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section role-section">
+        <div class="section-heading reveal">
+          <span class="eyebrow">Made for local care</span>
+          <h2>One connected place, two clear experiences.</h2>
+        </div>
+        <div class="role-grid">
+          <article class="role-card patient-role reveal">
+            <span class="role-number">01</span>
+            <div class="role-icon">○</div>
+            <h3>Patients & clients</h3>
+            <p>
+              Find verified private clinics, view services and availability, and
+              manage requests with confidence.
+            </p>
+            <a href="/auth/patient/register.html">Create patient account →</a>
+          </article>
+          <article class="role-card clinic-role reveal">
+            <span class="role-number">02</span>
+            <div class="role-icon">✚</div>
+            <h3>Private clinics</h3>
+            <p>
+              Manage schedules, staff status, appointment requests, services,
+              and clinic availability.
+            </p>
+            <a href="/auth/clinic/register.html">Register your clinic →</a>
+          </article>
+        </div>
+        <p class="verification-note">
+          ✓ Clinics are verified by LapitCare administrators before being
+          listed.
+        </p>
+      </section>
+      <section class="clinic-cta" id="clinics">
+        <div class="cta-inner reveal">
+          <div>
+            <span class="eyebrow">For private clinic owners</span>
+            <h2>Bring your clinic closer to the community.</h2>
+            <p>
+              Register your clinic in Pagadian City. Listings go live after
+              verification.
+            </p>
+          </div>
+          <a class="btn btn-primary btn-large" href="/auth/clinic/register.html"
+            >Register your clinic →</a
+          >
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="footer-main">
+        <div>
+          <a class="logo" href="/"><span class="logo-mark"></span>LapitCare</a>
+          <p>
+            Private clinic discovery and appointment coordination for Pagadian
+            City.
+          </p>
+        </div>
+        <div>
+          <strong>Explore</strong><a href="#features">Features</a
+          ><a href="#specialties">Specialties</a><a href="#map">Clinic map</a>
+        </div>
+        <div>
+          <strong>Accounts</strong
+          ><a href="/auth/patient/login.html">Sign in</a
+          ><a href="/auth/patient/register.html">Create patient account</a
+          ><a href="/auth/clinic/register.html">Register clinic</a>
+        </div>
+        <div>
+          <strong>Privacy</strong>
+          <p>
+            Your information is handled with consent and care in line with the
+            Data Privacy Act of 2012 (RA 10173).
+          </p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2025 LapitCare</span
+        ><span
+          >Prototype using fictional data. Availability is for reference only
+          and does not guarantee actual conditions at the time of visit.</span
+        >
+      </div>
+    </footer>
+  </body>
+</html>

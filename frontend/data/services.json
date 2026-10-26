@@ -1,0 +1,32 @@
+[
+  {
+    "service_id": "srv_001",
+    "service_name": "Consultation",
+    "enabled": true
+  },
+  {
+    "service_id": "srv_002",
+    "service_name": "Follow-up care",
+    "enabled": true
+  },
+  {
+    "service_id": "srv_003",
+    "service_name": "Dental cleaning",
+    "enabled": true
+  },
+  {
+    "service_id": "srv_004",
+    "service_name": "Skin consultation",
+    "enabled": true
+  },
+  {
+    "service_id": "srv_005",
+    "service_name": "Pediatric consultation",
+    "enabled": true
+  },
+  {
+    "service_id": "srv_006",
+    "service_name": "Eye examination",
+    "enabled": true
+  }
+]

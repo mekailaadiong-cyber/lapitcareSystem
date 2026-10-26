@@ -1,0 +1,35 @@
+body {
+  min-height: 100vh;
+  padding: clamp(24px, 6vw, 72px) 20px;
+  background: var(--surface, #f5faf9);
+  color: var(--ink);
+}
+.policy-page {
+  width: min(760px, 100%);
+  margin: 0 auto;
+  padding: clamp(24px, 5vw, 48px);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: white;
+  box-shadow: var(--shadow);
+}
+.policy-page h1 {
+  margin: 0 0 8px;
+  color: var(--navy);
+  font-size: clamp(30px, 5vw, 42px);
+}
+.policy-page section {
+  margin-top: 28px;
+}
+.policy-page h2 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+.policy-page p {
+  line-height: 1.7;
+}
+.policy-page a:not(.back-link) {
+  color: var(--teal-dark);
+  font-weight: 700;
+  text-underline-offset: 3px;
+}

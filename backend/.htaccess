@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(config\.php|configure\.php|schema\.sql)$">
+  Require all denied
+</FilesMatch>

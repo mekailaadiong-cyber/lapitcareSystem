@@ -1,0 +1,266 @@
+[
+  {
+    "schedule_id": "sch_001",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_002",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_003",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_003",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_004",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_005",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_005",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_006",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_006",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_007",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_007",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_008",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_008",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_009",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_010",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_010",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_011",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_012",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_013",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_014",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_015",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_015",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_016",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_017",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_017",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_018",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_018",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_019",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_019",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_020",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_020",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_021",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_022",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_022",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_023",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_024",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_025",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_026",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_027",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_027",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_028",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_029",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_029",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_030",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_030",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_031",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_031",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_032",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_032",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  },
+  {
+    "schedule_id": "sch_033",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "weekday": "Monday\u2013Saturday",
+    "start_time": "08:00",
+    "end_time": "17:00"
+  }
+]

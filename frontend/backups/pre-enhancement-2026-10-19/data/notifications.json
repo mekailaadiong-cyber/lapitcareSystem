@@ -1,0 +1,82 @@
+[
+  {
+    "notification_id": "not_001",
+    "recipient_id": "pat_001",
+    "notification_type": "Appointment update",
+    "message": "Your appointment request was received.",
+    "read": true,
+    "created_at": "2026-10-12"
+  },
+  {
+    "notification_id": "not_002",
+    "recipient_id": "cln_001",
+    "notification_type": "Appointment update",
+    "message": "A new appointment request needs review.",
+    "read": false,
+    "created_at": "2026-10-11"
+  },
+  {
+    "notification_id": "not_003",
+    "recipient_id": "pat_001",
+    "notification_type": "Appointment update",
+    "message": "Your booking was confirmed.",
+    "read": false,
+    "created_at": "2026-10-10"
+  },
+  {
+    "notification_id": "not_004",
+    "recipient_id": "cln_001",
+    "notification_type": "Appointment update",
+    "message": "Your appointment request was received.",
+    "read": true,
+    "created_at": "2026-10-09"
+  },
+  {
+    "notification_id": "not_005",
+    "recipient_id": "pat_001",
+    "notification_type": "Appointment update",
+    "message": "A new appointment request needs review.",
+    "read": false,
+    "created_at": "2026-10-08"
+  },
+  {
+    "notification_id": "not_006",
+    "recipient_id": "cln_001",
+    "notification_type": "Appointment update",
+    "message": "Your booking was confirmed.",
+    "read": false,
+    "created_at": "2026-10-07"
+  },
+  {
+    "notification_id": "not_007",
+    "recipient_id": "pat_001",
+    "notification_type": "Appointment update",
+    "message": "Your appointment request was received.",
+    "read": true,
+    "created_at": "2026-10-06"
+  },
+  {
+    "notification_id": "not_008",
+    "recipient_id": "cln_001",
+    "notification_type": "Appointment update",
+    "message": "A new appointment request needs review.",
+    "read": false,
+    "created_at": "2026-10-05"
+  },
+  {
+    "notification_id": "not_009",
+    "recipient_id": "pat_001",
+    "notification_type": "Appointment update",
+    "message": "Your booking was confirmed.",
+    "read": false,
+    "created_at": "2026-10-04"
+  },
+  {
+    "notification_id": "not_010",
+    "recipient_id": "cln_001",
+    "notification_type": "Appointment update",
+    "message": "Your appointment request was received.",
+    "read": true,
+    "created_at": "2026-10-03"
+  }
+]

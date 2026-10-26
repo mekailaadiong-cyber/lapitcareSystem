@@ -1,0 +1,27 @@
+[
+  {
+    "user_id": "usr_patient_01",
+    "email": "mara@lapitcare.demo",
+    "password_hash": "27d9aefde4ade18693e310562cfb4bed125b1e5f2864f7b5a29dfd072dd5ae34",
+    "role": "Patient",
+    "name": "Mara Santos",
+    "account_status": "Active"
+  },
+  {
+    "user_id": "usr_clinic_01",
+    "email": "clinic@lapitcare.demo",
+    "password_hash": "8208472602e5ac02701b51eea00a3494be376c5c6b11bd48baadfb4584b4dfb4",
+    "role": "Clinic Administrator",
+    "name": "Dr. Ana Cruz",
+    "clinic_id": "cln_001",
+    "account_status": "Active"
+  },
+  {
+    "user_id": "usr_admin_01",
+    "email": "admin@lapitcare.demo",
+    "password_hash": "3eb3fe66b31e3b4d10fa70b5cad49c7112294af6ae4e476a1c405155d45aa121",
+    "role": "System Administrator",
+    "name": "System Administrator",
+    "account_status": "Active"
+  }
+]

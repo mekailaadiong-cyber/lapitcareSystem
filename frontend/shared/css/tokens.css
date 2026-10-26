@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Nunito:wght@600;700;800&display=swap");
+:root {
+  --teal: #0e9aa7;
+  --teal-dark: #087986;
+  --navy: #0b3c49;
+  --mint: #d9f5ee;
+  --coral: #ff6b6b;
+  --off: #f7fbfa;
+  --sky: #e6f4fb;
+  --white: #fff;
+  --ink: #17343d;
+  --muted: #657b83;
+  --line: #d9e7e5;
+  --green: #1f9d68;
+  --amber: #d98d16;
+  --red: #dc4d5d;
+  --slate: #718096;
+  --admin: #28343c;
+  --shadow: 0 16px 40px rgba(11, 60, 73, 0.1);
+  --shadow-sm: 0 7px 20px rgba(11, 60, 73, 0.08);
+  --radius: 18px;
+  --radius-sm: 12px;
+  --max: 1180px;
+}

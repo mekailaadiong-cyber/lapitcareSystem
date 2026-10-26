@@ -1,0 +1,9 @@
+[
+  { "faq_id": "faq_patient_001", "question": "When is my appointment confirmed?", "answer": "A booking request stays pending until the clinic confirms it. Check My Appointments or notifications for status changes.", "audience": "Patient", "category": "Appointments", "published": true },
+  { "faq_id": "faq_patient_002", "question": "Can I cancel or reschedule a visit?", "answer": "Pending requests can be cancelled. Confirmed visits may be changed before the clinic's cancellation window closes.", "audience": "Patient", "category": "Appointments", "published": true },
+  { "faq_id": "faq_patient_003", "question": "Where can I find clinic contact details?", "answer": "Open a clinic profile from Find Clinics to view its public address, phone number, services, and hours.", "audience": "Patient", "category": "Clinics", "published": true },
+  { "faq_id": "faq_patient_004", "question": "How do I save a clinic?", "answer": "Open Find Clinics and select Save Clinic on a card. Saved clinics appear in your shortlist.", "audience": "Patient", "category": "Clinics", "published": true },
+  { "faq_id": "faq_clinic_001", "question": "How does clinic application review work?", "answer": "Submitted clinic applications are marked Pending Review until an administrator reviews them. Corrections may be requested before a decision.", "audience": "Clinic", "category": "Registration", "published": true },
+  { "faq_id": "faq_clinic_002", "question": "Can clinics change their approval status?", "answer": "No. Approval status is controlled by the System Administrator review workflow.", "audience": "Clinic", "category": "Verification", "published": true },
+  { "faq_id": "faq_general_001", "question": "Is LapitCare a live healthcare service?", "answer": "This frontend prototype uses fictional demo data and browser storage. Confirm clinic details directly before relying on them.", "audience": "General", "category": "About", "published": true }
+]

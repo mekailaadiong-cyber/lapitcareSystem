@@ -1,0 +1,5378 @@
+[
+  {
+    "slot_id": "slot_0001",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0002",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0003",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0004",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0005",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0006",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0007",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0008",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0009",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0010",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0011",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0012",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0013",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0014",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0015",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0016",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0017",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0018",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0019",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0020",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0021",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0022",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0023",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0024",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0025",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0026",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0027",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0028",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0029",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0030",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0031",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0032",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0033",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0034",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0035",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0036",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0037",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0038",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0039",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0040",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0041",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0042",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_001",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0043",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0044",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0045",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0046",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0047",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0048",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0049",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0050",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0051",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0052",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0053",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0054",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0055",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0056",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0057",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0058",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0059",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0060",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0061",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0062",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0063",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0064",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0065",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0066",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0067",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0068",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0069",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0070",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0071",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0072",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0073",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0074",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0075",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0076",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0077",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0078",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0079",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0080",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0081",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0082",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0083",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0084",
+    "clinic_id": "cln_001",
+    "staff_id": "stf_002",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0085",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0086",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0087",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0088",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0089",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0090",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0091",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0092",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0093",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0094",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0095",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0096",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0097",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0098",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0099",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0100",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0101",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0102",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0103",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0104",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0105",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0106",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0107",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0108",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0109",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0110",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0111",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0112",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0113",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0114",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0115",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0116",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0117",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0118",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0119",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0120",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0121",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0122",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0123",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0124",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0125",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0126",
+    "clinic_id": "cln_002",
+    "staff_id": "stf_004",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0127",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0128",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0129",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0130",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0131",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0132",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0133",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0134",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0135",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0136",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0137",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0138",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0139",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0140",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0141",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0142",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0143",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0144",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0145",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0146",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0147",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0148",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0149",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0150",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0151",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0152",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0153",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0154",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0155",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0156",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0157",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0158",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0159",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0160",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0161",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0162",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0163",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0164",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0165",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0166",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0167",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0168",
+    "clinic_id": "cln_003",
+    "staff_id": "stf_009",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0169",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0170",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0171",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0172",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0173",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0174",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0175",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0176",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0177",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0178",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0179",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0180",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0181",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0182",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0183",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0184",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0185",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0186",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0187",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0188",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0189",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0190",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0191",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0192",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0193",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0194",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0195",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0196",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0197",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0198",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0199",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0200",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0201",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0202",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0203",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0204",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0205",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0206",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0207",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0208",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0209",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0210",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_011",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0211",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0212",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0213",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0214",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0215",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0216",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0217",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0218",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0219",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0220",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0221",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0222",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0223",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0224",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0225",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0226",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0227",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0228",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0229",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0230",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0231",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0232",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0233",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0234",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0235",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0236",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0237",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0238",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0239",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0240",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0241",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0242",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0243",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0244",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0245",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0246",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0247",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0248",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0249",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0250",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0251",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0252",
+    "clinic_id": "cln_004",
+    "staff_id": "stf_012",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0253",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0254",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0255",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0256",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0257",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0258",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0259",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0260",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0261",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0262",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0263",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0264",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0265",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0266",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0267",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0268",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0269",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0270",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0271",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0272",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0273",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0274",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0275",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0276",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0277",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0278",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0279",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0280",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0281",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0282",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0283",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0284",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0285",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0286",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0287",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0288",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0289",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0290",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0291",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0292",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0293",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0294",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_013",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0295",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0296",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0297",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0298",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0299",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0300",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0301",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0302",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0303",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0304",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0305",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0306",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0307",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0308",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0309",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0310",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0311",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0312",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0313",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0314",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0315",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0316",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0317",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0318",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0319",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0320",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0321",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0322",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0323",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0324",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0325",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0326",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0327",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0328",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0329",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0330",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0331",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0332",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0333",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0334",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0335",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0336",
+    "clinic_id": "cln_005",
+    "staff_id": "stf_014",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0337",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0338",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0339",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0340",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0341",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0342",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0343",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0344",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0345",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0346",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0347",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0348",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0349",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0350",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0351",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0352",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0353",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0354",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0355",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0356",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0357",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0358",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0359",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0360",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0361",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0362",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0363",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0364",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0365",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0366",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0367",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0368",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0369",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0370",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0371",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0372",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0373",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0374",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0375",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0376",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0377",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0378",
+    "clinic_id": "cln_006",
+    "staff_id": "stf_016",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0379",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0380",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0381",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0382",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0383",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0384",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0385",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0386",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0387",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0388",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0389",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0390",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0391",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0392",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0393",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0394",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0395",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0396",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0397",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0398",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0399",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0400",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0401",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0402",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0403",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0404",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0405",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0406",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0407",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0408",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0409",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0410",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0411",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0412",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0413",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0414",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0415",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0416",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0417",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0418",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0419",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0420",
+    "clinic_id": "cln_007",
+    "staff_id": "stf_021",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0421",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0422",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0423",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0424",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0425",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0426",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0427",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0428",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0429",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0430",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0431",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0432",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0433",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0434",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0435",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0436",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0437",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0438",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0439",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0440",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0441",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0442",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0443",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0444",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0445",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0446",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0447",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0448",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0449",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0450",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0451",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0452",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0453",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0454",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0455",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0456",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0457",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0458",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0459",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0460",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0461",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0462",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_023",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0463",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0464",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0465",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0466",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0467",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0468",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0469",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0470",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0471",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0472",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0473",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0474",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0475",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0476",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0477",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0478",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0479",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0480",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0481",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0482",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0483",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0484",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0485",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0486",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0487",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0488",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0489",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0490",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0491",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0492",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0493",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0494",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0495",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0496",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0497",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0498",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0499",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0500",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0501",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0502",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0503",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0504",
+    "clinic_id": "cln_008",
+    "staff_id": "stf_024",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0505",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0506",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0507",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0508",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0509",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0510",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0511",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0512",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0513",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0514",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0515",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0516",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0517",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0518",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0519",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0520",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0521",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0522",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0523",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0524",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0525",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0526",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0527",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0528",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0529",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0530",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0531",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0532",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0533",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0534",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0535",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0536",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0537",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0538",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0539",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0540",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0541",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0542",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0543",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0544",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0545",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0546",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_025",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0547",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0548",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0549",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0550",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0551",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0552",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0553",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0554",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0555",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0556",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0557",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0558",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0559",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0560",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0561",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0562",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0563",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0564",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0565",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0566",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0567",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0568",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0569",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0570",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0571",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0572",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0573",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0574",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0575",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0576",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0577",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0578",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0579",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0580",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0581",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0582",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0583",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0584",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0585",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0586",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0587",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0588",
+    "clinic_id": "cln_009",
+    "staff_id": "stf_026",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0589",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0590",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0591",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0592",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0593",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0594",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0595",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0596",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0597",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0598",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0599",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0600",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0601",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0602",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0603",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0604",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0605",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0606",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0607",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0608",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0609",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0610",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0611",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0612",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0613",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0614",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0615",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0616",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0617",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0618",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0619",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0620",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0621",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0622",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0623",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0624",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0625",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0626",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0627",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0628",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0629",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0630",
+    "clinic_id": "cln_010",
+    "staff_id": "stf_028",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0631",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-13",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0632",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-13",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0633",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-13",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0634",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-14",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0635",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-14",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0636",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-14",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0637",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-15",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0638",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-15",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0639",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-15",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0640",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-16",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0641",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-16",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0642",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-16",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0643",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-17",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0644",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-17",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0645",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-17",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0646",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-18",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0647",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-18",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0648",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-18",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0649",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-19",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0650",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-19",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0651",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-19",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0652",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-20",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0653",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-20",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0654",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-20",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0655",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-21",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0656",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-21",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0657",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-21",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0658",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-22",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0659",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-22",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0660",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-22",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0661",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-23",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0662",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-23",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0663",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-23",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0664",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-24",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0665",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-24",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0666",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-24",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0667",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-25",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0668",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-25",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0669",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-25",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0670",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-26",
+    "start_time": "09:00",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0671",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-26",
+    "start_time": "10:30",
+    "slot_status": "Available"
+  },
+  {
+    "slot_id": "slot_0672",
+    "clinic_id": "cln_011",
+    "staff_id": "stf_033",
+    "slot_date": "2026-10-26",
+    "start_time": "14:00",
+    "slot_status": "Available"
+  }
+]

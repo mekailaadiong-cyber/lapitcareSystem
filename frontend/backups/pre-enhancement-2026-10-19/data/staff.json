@@ -1,0 +1,233 @@
+[
+  {
+    "staff_id": "stf_001",
+    "clinic_id": "cln_001",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_002",
+    "clinic_id": "cln_001",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_003",
+    "clinic_id": "cln_001",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_004",
+    "clinic_id": "cln_002",
+    "staff_name": "Dr. Noel Ong",
+    "specialty_name": "Dentistry",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_005",
+    "clinic_id": "cln_002",
+    "staff_name": "Dr. Liza Go",
+    "specialty_name": "Dentistry",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_006",
+    "clinic_id": "cln_002",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "Dentistry",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_007",
+    "clinic_id": "cln_003",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "Dermatology",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_008",
+    "clinic_id": "cln_003",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "Dermatology",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_009",
+    "clinic_id": "cln_003",
+    "staff_name": "Dr. Noel Ong",
+    "specialty_name": "Dermatology",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_010",
+    "clinic_id": "cln_004",
+    "staff_name": "Dr. Liza Go",
+    "specialty_name": "Pediatrics",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_011",
+    "clinic_id": "cln_004",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "Pediatrics",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_012",
+    "clinic_id": "cln_004",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "Pediatrics",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_013",
+    "clinic_id": "cln_005",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "Ophthalmology / Optometry",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_014",
+    "clinic_id": "cln_005",
+    "staff_name": "Dr. Noel Ong",
+    "specialty_name": "Ophthalmology / Optometry",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_015",
+    "clinic_id": "cln_005",
+    "staff_name": "Dr. Liza Go",
+    "specialty_name": "Ophthalmology / Optometry",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_016",
+    "clinic_id": "cln_006",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_017",
+    "clinic_id": "cln_006",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_018",
+    "clinic_id": "cln_006",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_019",
+    "clinic_id": "cln_007",
+    "staff_name": "Dr. Noel Ong",
+    "specialty_name": "Dentistry",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_020",
+    "clinic_id": "cln_007",
+    "staff_name": "Dr. Liza Go",
+    "specialty_name": "Dentistry",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_021",
+    "clinic_id": "cln_007",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "Dentistry",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_022",
+    "clinic_id": "cln_008",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "Pediatrics",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_023",
+    "clinic_id": "cln_008",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_024",
+    "clinic_id": "cln_008",
+    "staff_name": "Dr. Noel Ong",
+    "specialty_name": "Pediatrics",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_025",
+    "clinic_id": "cln_009",
+    "staff_name": "Dr. Liza Go",
+    "specialty_name": "Dermatology",
+    "duty_status": "On Duty"
+  },
+  {
+    "staff_id": "stf_026",
+    "clinic_id": "cln_009",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "Ophthalmology / Optometry",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_027",
+    "clinic_id": "cln_009",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "Dermatology",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_028",
+    "clinic_id": "cln_010",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "Off Duty"
+  },
+  {
+    "staff_id": "stf_029",
+    "clinic_id": "cln_010",
+    "staff_name": "Dr. Noel Ong",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_030",
+    "clinic_id": "cln_010",
+    "staff_name": "Dr. Liza Go",
+    "specialty_name": "General Practice / Family Medicine",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_031",
+    "clinic_id": "cln_011",
+    "staff_name": "Dr. Mia Ramos",
+    "specialty_name": "Dentistry",
+    "duty_status": "On Leave"
+  },
+  {
+    "staff_id": "stf_032",
+    "clinic_id": "cln_011",
+    "staff_name": "Dr. Carlo Diaz",
+    "specialty_name": "Dentistry",
+    "duty_status": "Unavailable"
+  },
+  {
+    "staff_id": "stf_033",
+    "clinic_id": "cln_011",
+    "staff_name": "Dr. Bea Tan",
+    "specialty_name": "Dentistry",
+    "duty_status": "On Duty"
+  }
+]

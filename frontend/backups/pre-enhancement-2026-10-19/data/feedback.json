@@ -1,0 +1,29 @@
+[
+  {
+    "feedback_id": "fb_001",
+    "appointment_id": "apt_0003",
+    "patient_id": "pat_001",
+    "clinic_id": "cln_001",
+    "rating": 5,
+    "comment": "Friendly staff and a smooth appointment.",
+    "created_at": "2026-10-10"
+  },
+  {
+    "feedback_id": "fb_002",
+    "appointment_id": "apt_0009",
+    "patient_id": "pat_002",
+    "clinic_id": "cln_002",
+    "rating": 4,
+    "comment": "Clear directions and an organized visit.",
+    "created_at": "2026-10-09"
+  },
+  {
+    "feedback_id": "fb_003",
+    "appointment_id": "apt_0015",
+    "patient_id": "pat_003",
+    "clinic_id": "cln_003",
+    "rating": 5,
+    "comment": "Friendly staff and a smooth appointment.",
+    "created_at": "2026-10-08"
+  }
+]

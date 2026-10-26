@@ -1,0 +1,27 @@
+[
+  {
+    "specialty_id": "spc_001",
+    "specialty_name": "Dentistry",
+    "enabled": true
+  },
+  {
+    "specialty_id": "spc_002",
+    "specialty_name": "Dermatology",
+    "enabled": true
+  },
+  {
+    "specialty_id": "spc_003",
+    "specialty_name": "Pediatrics",
+    "enabled": true
+  },
+  {
+    "specialty_id": "spc_004",
+    "specialty_name": "Ophthalmology / Optometry",
+    "enabled": true
+  },
+  {
+    "specialty_id": "spc_005",
+    "specialty_name": "General Practice / Family Medicine",
+    "enabled": true
+  }
+]

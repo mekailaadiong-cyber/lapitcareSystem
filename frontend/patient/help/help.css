@@ -1,0 +1,12 @@
+.help-answer + .help-answer {
+  border-top: 1px solid var(--line);
+  margin-top: 18px;
+  padding-top: 18px;
+}
+.help-answer h3 {
+  margin-bottom: 6px;
+}
+.help-answer p {
+  color: var(--muted);
+  margin: 0;
+}

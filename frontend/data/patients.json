@@ -1,0 +1,137 @@
+[
+  {
+    "patient_id": "pat_001",
+    "user_id": "usr_patient_01",
+    "name": "Mara Santos",
+    "email": "mara@lapitcare.demo",
+    "mobile_number": "09190000000",
+    "barangay": "Balangasan",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_002",
+    "user_id": "usr_patient_02",
+    "name": "Jon Reyes",
+    "email": "patient2@lapitcare.demo",
+    "mobile_number": "09190000001",
+    "barangay": "Gatas",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_003",
+    "user_id": "usr_patient_03",
+    "name": "Celine Uy",
+    "email": "patient3@lapitcare.demo",
+    "mobile_number": "09190000002",
+    "barangay": "Tiguma",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_004",
+    "user_id": "usr_patient_04",
+    "name": "Paolo Lim",
+    "email": "patient4@lapitcare.demo",
+    "mobile_number": "09190000003",
+    "barangay": "Balangasan",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_005",
+    "user_id": "usr_patient_05",
+    "name": "Aira Cruz",
+    "email": "patient5@lapitcare.demo",
+    "mobile_number": "09190000004",
+    "barangay": "Gatas",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_006",
+    "user_id": "usr_patient_06",
+    "name": "Mara Santos 6",
+    "email": "patient6@lapitcare.demo",
+    "mobile_number": "09190000005",
+    "barangay": "Tiguma",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_007",
+    "user_id": "usr_patient_07",
+    "name": "Jon Reyes 7",
+    "email": "patient7@lapitcare.demo",
+    "mobile_number": "09190000006",
+    "barangay": "Balangasan",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_008",
+    "user_id": "usr_patient_08",
+    "name": "Celine Uy 8",
+    "email": "patient8@lapitcare.demo",
+    "mobile_number": "09190000007",
+    "barangay": "Gatas",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_009",
+    "user_id": "usr_patient_09",
+    "name": "Paolo Lim 9",
+    "email": "patient9@lapitcare.demo",
+    "mobile_number": "09190000008",
+    "barangay": "Tiguma",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_010",
+    "user_id": "usr_patient_10",
+    "name": "Aira Cruz 10",
+    "email": "patient10@lapitcare.demo",
+    "mobile_number": "09190000009",
+    "barangay": "Balangasan",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_011",
+    "user_id": "usr_patient_11",
+    "name": "Mara Santos 11",
+    "email": "patient11@lapitcare.demo",
+    "mobile_number": "09190000010",
+    "barangay": "Gatas",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_012",
+    "user_id": "usr_patient_12",
+    "name": "Jon Reyes 12",
+    "email": "patient12@lapitcare.demo",
+    "mobile_number": "09190000011",
+    "barangay": "Tiguma",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_013",
+    "user_id": "usr_patient_13",
+    "name": "Celine Uy 13",
+    "email": "patient13@lapitcare.demo",
+    "mobile_number": "09190000012",
+    "barangay": "Balangasan",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_014",
+    "user_id": "usr_patient_14",
+    "name": "Paolo Lim 14",
+    "email": "patient14@lapitcare.demo",
+    "mobile_number": "09190000013",
+    "barangay": "Gatas",
+    "account_status": "Active"
+  },
+  {
+    "patient_id": "pat_015",
+    "user_id": "usr_patient_15",
+    "name": "Aira Cruz 15",
+    "email": "patient15@lapitcare.demo",
+    "mobile_number": "09190000014",
+    "barangay": "Tiguma",
+    "account_status": "Active"
+  }
+]

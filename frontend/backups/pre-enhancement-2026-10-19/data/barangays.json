@@ -1,0 +1,42 @@
+[
+  {
+    "barangay_id": "bgy_001",
+    "barangay_name": "Balangasan"
+  },
+  {
+    "barangay_id": "bgy_002",
+    "barangay_name": "Santa Lucia"
+  },
+  {
+    "barangay_id": "bgy_003",
+    "barangay_name": "San Francisco"
+  },
+  {
+    "barangay_id": "bgy_004",
+    "barangay_name": "Gatas"
+  },
+  {
+    "barangay_id": "bgy_005",
+    "barangay_name": "Tuburan"
+  },
+  {
+    "barangay_id": "bgy_006",
+    "barangay_name": "Kawit"
+  },
+  {
+    "barangay_id": "bgy_007",
+    "barangay_name": "Lumbia"
+  },
+  {
+    "barangay_id": "bgy_008",
+    "barangay_name": "Tiguma"
+  },
+  {
+    "barangay_id": "bgy_009",
+    "barangay_name": "San Pedro"
+  },
+  {
+    "barangay_id": "bgy_010",
+    "barangay_name": "Buenavista"
+  }
+]

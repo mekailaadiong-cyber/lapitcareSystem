@@ -1,0 +1,128 @@
+[
+  {
+    "activity_log_id": "log_001",
+    "user_name": "System Administrator",
+    "action": "Approved clinic",
+    "entity_type": "Clinic",
+    "created_at": "2026-10-12 09:15"
+  },
+  {
+    "activity_log_id": "log_002",
+    "user_name": "Dr. Ana Cruz",
+    "action": "Updated duty status",
+    "entity_type": "Staff",
+    "created_at": "2026-10-12 10:15"
+  },
+  {
+    "activity_log_id": "log_003",
+    "user_name": "Mara Santos",
+    "action": "Booked appointment",
+    "entity_type": "Appointment",
+    "created_at": "2026-10-12 11:15"
+  },
+  {
+    "activity_log_id": "log_004",
+    "user_name": "System Administrator",
+    "action": "Approved clinic",
+    "entity_type": "Clinic",
+    "created_at": "2026-10-12 12:15"
+  },
+  {
+    "activity_log_id": "log_005",
+    "user_name": "Dr. Ana Cruz",
+    "action": "Updated duty status",
+    "entity_type": "Staff",
+    "created_at": "2026-10-12 13:15"
+  },
+  {
+    "activity_log_id": "log_006",
+    "user_name": "Mara Santos",
+    "action": "Booked appointment",
+    "entity_type": "Appointment",
+    "created_at": "2026-10-12 14:15"
+  },
+  {
+    "activity_log_id": "log_007",
+    "user_name": "System Administrator",
+    "action": "Approved clinic",
+    "entity_type": "Clinic",
+    "created_at": "2026-10-12 15:15"
+  },
+  {
+    "activity_log_id": "log_008",
+    "user_name": "Dr. Ana Cruz",
+    "action": "Updated duty status",
+    "entity_type": "Staff",
+    "created_at": "2026-10-12 16:15"
+  },
+  {
+    "activity_log_id": "log_009",
+    "user_name": "Mara Santos",
+    "action": "Booked appointment",
+    "entity_type": "Appointment",
+    "created_at": "2026-10-12 09:15"
+  },
+  {
+    "activity_log_id": "log_010",
+    "user_name": "System Administrator",
+    "action": "Approved clinic",
+    "entity_type": "Clinic",
+    "created_at": "2026-10-12 10:15"
+  },
+  {
+    "activity_log_id": "log_011",
+    "user_name": "Dr. Ana Cruz",
+    "action": "Updated duty status",
+    "entity_type": "Staff",
+    "created_at": "2026-10-12 11:15"
+  },
+  {
+    "activity_log_id": "log_012",
+    "user_name": "Mara Santos",
+    "action": "Booked appointment",
+    "entity_type": "Appointment",
+    "created_at": "2026-10-12 12:15"
+  },
+  {
+    "activity_log_id": "log_013",
+    "user_name": "System Administrator",
+    "action": "Approved clinic",
+    "entity_type": "Clinic",
+    "created_at": "2026-10-12 13:15"
+  },
+  {
+    "activity_log_id": "log_014",
+    "user_name": "Dr. Ana Cruz",
+    "action": "Updated duty status",
+    "entity_type": "Staff",
+    "created_at": "2026-10-12 14:15"
+  },
+  {
+    "activity_log_id": "log_015",
+    "user_name": "Mara Santos",
+    "action": "Booked appointment",
+    "entity_type": "Appointment",
+    "created_at": "2026-10-12 15:15"
+  },
+  {
+    "activity_log_id": "log_016",
+    "user_name": "System Administrator",
+    "action": "Approved clinic",
+    "entity_type": "Clinic",
+    "created_at": "2026-10-12 16:15"
+  },
+  {
+    "activity_log_id": "log_017",
+    "user_name": "Dr. Ana Cruz",
+    "action": "Updated duty status",
+    "entity_type": "Staff",
+    "created_at": "2026-10-12 09:15"
+  },
+  {
+    "activity_log_id": "log_018",
+    "user_name": "Mara Santos",
+    "action": "Booked appointment",
+    "entity_type": "Appointment",
+    "created_at": "2026-10-12 10:15"
+  }
+]
